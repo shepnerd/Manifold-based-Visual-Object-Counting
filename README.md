@@ -2,9 +2,13 @@
 
 ## Datasets
 Bacterial cell: http://www.robots.ox.ac.uk/~vgg/research/counting/cells.zip
+
 UCSD pedestrian: http://www.svcl.ucsd.edu/projects/peoplecnt/db/vidf-cvpr.zip
+
 Mall pedestrian: http://personal.ie.cuhk.edu.hk/~ccloy/files/datasets/mall_dataset.zip
+
 UCF_CC_50: http://crcv.ucf.edu/data/UCFCrowdCountingDataset_CVPR13.rar
+
 Bee/Fish/Seagull: http://visal.cs.cityu.edu.hk/downloads/#smallobjects
 
 ## About implementation
