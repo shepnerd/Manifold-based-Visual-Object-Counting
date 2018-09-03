@@ -15,9 +15,12 @@ Bee/Fish/Seagull: http://visal.cs.cityu.edu.hk/downloads/#smallobjects
 This is the matlab implementation for the paper 'Manifold-based Visual Object Counting'.
 
 @article{wang2018manifold,
-  title={Manifold-based Visual Object Counting},
+  title={Manifold-Based Visual Object Counting},
   author={Wang, Yi and Zou, Yuexian and Wang, Wenwu},
   journal={IEEE Transactions on Image Processing},
+  volume={27},
+  number={7},
+  pages={3248--3263},
   year={2018},
   publisher={IEEE}
 }
